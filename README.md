@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Computer Science Graduate 
-- Lebanese <img align="left" width="15px" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lb.svg" />
+- Lebanese <img align="left" width="20px" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lb.svg" />
 - 💬 Quick Learner, Problem Solver
 
 
