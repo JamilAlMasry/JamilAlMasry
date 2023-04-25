@@ -2,17 +2,13 @@
 
 <!--
 **JamilAlMasry/JamilAlMasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+-->
 - 🔭 Computer Science Graduate 
-- 🌱 Lebanese <img align="left" width="35px" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lb.svg" />
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Lebanese <img align="left" width="25px" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lb.svg" />
+- 💬 Quick Learner, Problem Solver
+
 
 
 ### Languages and Skills
