@@ -1,4 +1,4 @@
-### Hi there, I'm Jamil Al Masry 👋 
+### Hi there, I'm Jamil Al Masry 👋  
 
 <!--
 **JamilAlMasry/JamilAlMasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
