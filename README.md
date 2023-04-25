@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/mysql/mysql.png" />
 
 <br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamilAlMasry&layout=compact)](https://github.com/JamilAlMasry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamilAlMasry&layout=compact)](https://github.com/JamilAlMasry/github-readme-stats) 
